@@ -12,8 +12,7 @@ class Car
   end
 
   def range
-    #@fuel*MILES_PER_GALLON
-    0
+    @fuel*MILES_PER_GALLON
   end
 end
 
